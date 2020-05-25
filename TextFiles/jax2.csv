@@ -1,0 +1,1 @@
+ cookie=0x0, duration=0.465s, table=0, n_packets=0, n_bytes=0, idle_timeout=60, idle_age=0, priority=65535,tcp,in_port=2,vlan_tci=0x0000,dl_src=46:ca:50:28:90:de,dl_dst=06:31:6c:34:0d:7f,nw_src=10.0.0.2,nw_dst=10.0.0.1,nw_tos=0,tp_src=80,tp_dst=0 actions=output:3
